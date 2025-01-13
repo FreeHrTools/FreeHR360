@@ -12,4 +12,19 @@
 
 综上所述，360度测评理念通过全面的评估，为个人和组织提供了宝贵的反馈和发展方向。
 ![图片 1](https://github.com/user-attachments/assets/18e07922-159b-48a7-8813-388508f05e8d)
-![图片 2](https://github.com/user-attachments/assets/a673d1da-ffb6-440c-a8dc-359e2a77c3c6)
+
+## 📫 How to reach us:
+- 官方WeChat:freeaicc
+- Skype：https://join.skype.com/invite/rVbQH1igkQwV
+- Skype UserID：live:.cid.fedb411de91d9b
+- Email:leehear@gmail.com 
+![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
+
+## 最新demo链接enjoy😄：待定
+
+## 开发语言：vue+nodejs
+
+## FreeHR360的愿景与基础功能阐述
+
+## 关于源码与付费： 付费后，我们将会提供对应模块源码及一次源码培训
+付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。
