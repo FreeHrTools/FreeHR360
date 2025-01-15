@@ -60,15 +60,15 @@
 5，推动人力资源管理创新：不断探索和创新人力资源管理的新模式和新方法，为企业提供更多元化、更个性化的服务方案，推动人力资源管理的不断创新和发展。
 
 总之，“FreeHR360”将致力于成为一款功能强大、用户体验优秀的360度开源测评软件，为企业的人力资源管理提供全面、客观、准确的员工绩效信息，助力企业实现人才战略和可持续发展！
+# 2025.01.15最新demo链接enjoy😄：待定
 
-## 📫 How to reach us:
+# 📫 How to reach us:
 - 官方WeChat:freeaicc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 ![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
 
-## 最新demo链接enjoy😄：待定
-## 开发语言：vue+nodejs
-## 关于源码与付费： 付费后，我们将会提供对应模块源码及一次源码培训
+# 开发语言：vue+nodejs
+# 关于源码与付费： 付费后，我们将会提供对应模块源码及一次源码培训
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。
