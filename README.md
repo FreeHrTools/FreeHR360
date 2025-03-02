@@ -64,11 +64,12 @@
 # 2025.03.02最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
-- 官方WeChat:freeaicc
+- 官方WeChat:David_Li_Haiya
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
-![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
+![image](https://github.com/user-attachments/assets/8506b59d-9ebc-405a-9ebe-e35a563517d5)
+
 
 # 开发语言：vue+nodejs
 
